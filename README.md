@@ -9,3 +9,15 @@
 - **Implementation**
 
   [Implementation of DINO(2022)](https://on-jungwoan.github.io/dl/dino_implements/)
+
+<br>
+
+## Script
+  
+- **Result analysis**  
+
+  [result_visualization.ipynb](https://github.com/On-JungWoan/DINO-2022-implement/blob/main/result_visualization.ipynb)  
+
+- **Inferenece & Visualization**
+
+  [inference_and_visualization.ipynb](https://github.com/On-JungWoan/DINO-2022-implement/blob/main/inference_and_visualization.ipynb)
