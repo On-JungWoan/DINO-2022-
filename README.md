@@ -16,8 +16,8 @@
   
 - **Result analysis**  
 
-  [result_visualization.ipynb](https://github.com/On-JungWoan/DINO-2022-implement/blob/main/script/result_visualization.ipynb)  
+  [result_visualization.ipynb](https://github.com/On-JungWoan/DINO-2022-implement/blob/main/DINO/script/result_visualization.ipynb)  
 
 - **Inferenece & Visualization**
 
-  [inference_and_visualization.ipynb](https://github.com/On-JungWoan/DINO-2022-implement/blob/main/script/inference_and_visualization.ipynb)
+  [inference_and_visualization.ipynb](https://github.com/On-JungWoan/DINO-2022-implement/blob/main/DINO/script/inference_and_visualization.ipynb)
