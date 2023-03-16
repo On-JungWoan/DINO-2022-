@@ -4,11 +4,11 @@
   
 - **한국어 Review**  
 
-  [DINO(2022) 논문 정리 (진행중)](https://on-jungwoan.github.io/dl_review/dino/)  
+  [DINO(2022) 논문 정리 (진행중)](https://on-jungwoan.github.io/dl_paper/dino/)  
 
 - **Implementation**
 
-  [Implementation of DINO(2022)](https://on-jungwoan.github.io/dl_review/dino_implements/)
+  [Implementation of DINO(2022)](https://on-jungwoan.github.io/dl_paper/dino_implements/)
 
 <br>
 
