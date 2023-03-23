@@ -25,7 +25,7 @@
 
 <br>
 
-# DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION (2021)
+# Deformable DETR: Deformable Transformers for End-to-End Object Detection (2021)
 
 ## 포스팅
   
