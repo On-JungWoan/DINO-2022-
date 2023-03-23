@@ -25,14 +25,10 @@
 
 <br>
 
-# DINO : detr with improved denoising anchor boxes for end-to-end object detection (2022)
+#DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION (2021)
 
 ## 포스팅
   
 - **한국어 Review**  
 
-  [DINO(2022) 논문 정리 (진행중)](https://on-jungwoan.github.io/dl_paper/dino/)  
-
-- **Implementation**
-
-  [Implementation of DINO(2022)](https://on-jungwoan.github.io/dl_paper/dino_implements/)
+  [Deformable DETR(2021) 논문 정리 (진행중)](https://on-jungwoan.github.io/dl_paper/deform_detr/)  
