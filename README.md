@@ -8,7 +8,7 @@
 
 - **발표 자료**  
 
-  [2023_04_04_d_detr.pptx](https://docs.google.com/presentation/d/1G_5HbKuDhhoRWmFb5l5znt_aRF-gxJ1Y/edit#slide=id.p1)
+  [2023_04_04_d_detr.pptx](https://docs.google.com/presentation/d/1KFEG02jlgbZISuvFbilvwaP8PbdQCzAA/edit?usp=sharing&ouid=116507288704586191771&rtpof=true&sd=true)
 
 <br>
 
