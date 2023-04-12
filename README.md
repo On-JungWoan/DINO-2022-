@@ -10,6 +10,10 @@
 
   [2023_04_04_d_detr.pptx](https://docs.google.com/presentation/d/1KFEG02jlgbZISuvFbilvwaP8PbdQCzAA/edit?usp=sharing&ouid=116507288704586191771&rtpof=true&sd=true)
 
+- **발표 영상**
+
+  [Deformable DETR: Deformable Transformers for End-to-End Object Detection 리뷰](https://youtu.be/vbYOSB7J44A)
+
 <br>
 
 # DINO : detr with improved denoising anchor boxes for end-to-end object detection (2022)
