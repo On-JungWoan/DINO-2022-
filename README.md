@@ -1,6 +1,6 @@
-# Deformable DETR: Deformable Transformers for End-to-End Object Detection (2021)
+# 2. Deformable DETR: Deformable Transformers for End-to-End Object Detection (2021)
 
-## 포스팅
+## 2-1) 포스팅
   
 - **한국어 Review**  
 
@@ -15,10 +15,11 @@
   [Deformable DETR: Deformable Transformers for End-to-End Object Detection 리뷰](https://youtu.be/vbYOSB7J44A)
 
 <br>
+<br>
 
-# DINO : detr with improved denoising anchor boxes for end-to-end object detection (2022)
+# 1. DINO : detr with improved denoising anchor boxes for end-to-end object detection (2022)
 
-## 포스팅
+## 1-1) 포스팅
   
 - **한국어 Review**  
 
@@ -30,7 +31,7 @@
 
 <br>
 
-## Script
+## 1-2) Script
   
 - **Result analysis**  
 
