@@ -43,7 +43,7 @@
 
 - **Official script**
 
-  [Implementation script](https://github.com/On-JungWoan/paper-review/tree/main/Deformable DETR/Deformable DETR)
+  [Implementation script](https://github.com/On-JungWoan/paper-review/tree/main/Deformable%20DETR/Deformable-DETR)
 
 <br>
 <br>
