@@ -1,6 +1,6 @@
-# 3. VIBE: Video Inference for Human Body Pose and Shape Estimation (2020)
+## 3. VIBE: Video Inference for Human Body Pose and Shape Estimation (2020)
 
-## 2-1) 포스팅
+### 2-1) 포스팅
   
 - **한국어 Review**  
 
@@ -17,9 +17,9 @@
 <br>
 <br>
 
-# 2. Deformable DETR: Deformable Transformers for End-to-End Object Detection (2021)
+## 2. Deformable DETR: Deformable Transformers for End-to-End Object Detection (2021)
 
-## 2-1) 포스팅
+### 2-1) 포스팅
   
 - **한국어 Review**  
 
@@ -36,9 +36,9 @@
 <br>
 <br>
 
-# 1. DINO : detr with improved denoising anchor boxes for end-to-end object detection (2022)
+## 1. DINO : detr with improved denoising anchor boxes for end-to-end object detection (2022)
 
-## 1-1) 포스팅
+### 1-1) 포스팅
   
 - **한국어 Review**  
 
@@ -50,7 +50,7 @@
 
 <br>
 
-## 1-2) Script
+### 1-2) Script
   
 - **Result analysis**  
 
