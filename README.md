@@ -1,10 +1,29 @@
+# 3. VIBE: Video Inference for Human Body Pose and Shape Estimation (2020)
+
+## 2-1) 포스팅
+  
+- **한국어 Review**  
+
+  [VIBE(2020) 논문 리뷰](https://on-jungwoan.github.io/dl_paper/vibe/)
+
+- **발표 자료**  
+
+  []()
+
+- **발표 영상**
+
+  []()
+
+<br>
+<br>
+
 # 2. Deformable DETR: Deformable Transformers for End-to-End Object Detection (2021)
 
 ## 2-1) 포스팅
   
 - **한국어 Review**  
 
-  [Deformable DETR(2021) 논문 정리](https://on-jungwoan.github.io/dl_paper/deform_detr/)  
+  [Deformable DETR(2021) 논문 리뷰](https://on-jungwoan.github.io/dl_paper/deform_detr/)  
 
 - **발표 자료**  
 
@@ -23,7 +42,7 @@
   
 - **한국어 Review**  
 
-  [DINO(2022) 논문 정리 (진행중)](https://on-jungwoan.github.io/dl_paper/dino/)  
+  [DINO(2022) 논문 리뷰](https://on-jungwoan.github.io/dl_paper/dino/)  
 
 - **Implementation**
 
