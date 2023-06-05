@@ -4,17 +4,17 @@
   
 - **한국어 Review**  
 
-  [VIBE(2020) 논문 리뷰](https://on-jungwoan.github.io/dl_paper/vibe/)
+  <a href="https://on-jungwoan.github.io/dl_paper/vibe/" target="blank_">VIBE(2020) 논문 리뷰</a>
 
 - **발표 자료**  
 
-  <a href="https://docs.google.com/presentation/d/1vXGcHwAJxjAXV_m76dgl7abqPDun0TY_/edit?usp=sharing&ouid=116507288704586191771&rtpof=true&sd=true" target="_blank">2023_05_17_VIBE.pptx</a>
+  <a href="https://docs.google.com/presentation/d/1vXGcHwAJxjAXV_m76dgl7abqPDun0TY_/edit?usp=sharing&ouid=116507288704586191771&rtpof=true&sd=true" target="blank_">2023_05_17_VIBE.pptx</a>
 
 ### 3-2) Script
 
 - **Official script**
 
-  [Implementation script](https://github.com/On-JungWoan/paper-review/tree/main/VIBE/VIBE)
+  <a href="https://github.com/On-JungWoan/paper-review/tree/main/VIBE/VIBE" target="blank_">Implementation script</a>
 
 <br>
 <br>
@@ -25,21 +25,21 @@
   
 - **한국어 Review**  
 
-  [Deformable DETR(2021) 논문 리뷰](https://on-jungwoan.github.io/dl_paper/deform_detr/)  
+  <a href="https://on-jungwoan.github.io/dl_paper/deform_detr/" target="blank_">Deformable DETR(2021) 논문 리뷰</a>
 
 - **발표 자료**  
 
-  <a href="https://docs.google.com/presentation/d/1KFEG02jlgbZISuvFbilvwaP8PbdQCzAA/edit?usp=sharing&ouid=116507288704586191771&rtpof=true&sd=true" target="_blank">2023_04_04_d_detr.pptx</a>
+  <a href="https://docs.google.com/presentation/d/1KFEG02jlgbZISuvFbilvwaP8PbdQCzAA/edit?usp=sharing&ouid=116507288704586191771&rtpof=true&sd=true" target="blank_">2023_04_04_d_detr.pptx</a>
 
 - **발표 영상**
 
-  [Deformable DETR: Deformable Transformers for End-to-End Object Detection 리뷰](https://youtu.be/vbYOSB7J44A)
+  <a href="https://youtu.be/vbYOSB7J44A" target="blank_">Deformable DETR: Deformable Transformers for End-to-End Object Detection 리뷰</a>
 
 ### 2-2) Script
 
 - **Official script**
 
-  [Implementation script](https://github.com/On-JungWoan/paper-review/tree/main/Deformable%20DETR/Deformable-DETR)
+  <a href="https://github.com/On-JungWoan/paper-review/tree/main/Deformable%20DETR/Deformable-DETR" target="blank_">Implementation script</a>
 
 <br>
 <br>
@@ -50,22 +50,22 @@
   
 - **한국어 Review**  
 
-  [DINO(2022) 논문 리뷰](https://on-jungwoan.github.io/dl_paper/dino/)  
+  <a href="https://on-jungwoan.github.io/dl_paper/dino/" target="blank_">DINO(2022) 논문 리뷰</a>
 
 - **Implementation**
 
-  [Implementation of DINO(2022)](https://on-jungwoan.github.io/dl_paper/dino_implements/)
+  <a href="https://on-jungwoan.github.io/dl_paper/dino_implements/" target="blank_">Implementation of DINO(2022)</a>
 
 ### 1-2) Script
 
 - **Official script**
 
-  [Implementation script](https://github.com/On-JungWoan/paper-review/tree/main/DINO/DINO)
+  <a href="https://github.com/On-JungWoan/paper-review/tree/main/DINO/DINO" target="blank_">Implementation script</a>
   
 - **Result analysis**  
 
-  [result_visualization.ipynb](https://github.com/On-JungWoan/DINO-2022-implement/blob/main/DINO/script/result_visualization.ipynb)  
+  <a href="https://github.com/On-JungWoan/DINO-2022-implement/blob/main/DINO/script/result_visualization.ipynb" target="blank_">result_visualization.ipynb</a>
 
 - **Inferenece & Visualization**
 
-  [inference_and_visualization.ipynb](https://github.com/On-JungWoan/DINO-2022-implement/blob/main/DINO/script/inference_and_visualization.ipynb)
+  <a href="https://github.com/On-JungWoan/DINO-2022-implement/blob/main/DINO/script/inference_and_visualization.ipynb" target="blank_">inference_and_visualization.ipynb</a>
