@@ -8,11 +8,7 @@
 
 - **발표 자료**  
 
-  []()
-
-- **발표 영상**
-
-  []()
+  <a href="https://docs.google.com/presentation/d/1vXGcHwAJxjAXV_m76dgl7abqPDun0TY_/edit?usp=sharing&ouid=116507288704586191771&rtpof=true&sd=true" target="blank_">2023_05_17_VIBE.pptx</a>
 
 ### 3-2) Script
 
