@@ -14,4 +14,4 @@
 
 - **Official script**
 
-  <a href="https://github.com/On-JungWoan/paper-review/tree/main/METRO/MeshTransformer" target="blank_">Implementation script</a>
+  <a href="https://github.com/microsoft/MeshTransformer" target="blank_">https://github.com/microsoft/MeshTransformer</a>
