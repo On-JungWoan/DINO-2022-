@@ -1,3 +1,20 @@
+## 5. CLIP: Learning Transferable Visual Models From Natural Language Supervision (2021)
+
+### 3-1) 포스팅
+  
+- **한국어 Review**  
+
+  <a href="https://on-jungwoan.github.io/dl_paper/clip/" target="blank_">CLIP(2021) 논문 리뷰</a>
+
+### 3-2) Script
+
+- **Official script**
+
+  <a href="https://github.com/openai/CLIP" target="blank_">https://github.com/openai/CLIP</a>
+
+<br>
+<br>
+
 ## 4. METRO: End-to-End Human Pose and Mesh Reconstruction with Transformers (2021)
 
 ### 3-1) 포스팅
