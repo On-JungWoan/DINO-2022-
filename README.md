@@ -1,3 +1,20 @@
+## 6. CoOp: Learning to Prompt for Vision-Language Models (2022)
+
+### 3-1) 포스팅
+  
+- **한국어 Review**  
+
+  <a href="https://on-jungwoan.github.io/dl_paper/coop/" target="blank_">CoOp(2022) 논문 리뷰</a>
+
+### 3-2) Script
+
+- **Official script**
+
+  <a href="https://github.com/KaiyangZhou/CoOp" target="blank_">https://github.com/KaiyangZhou/CoOp</a>
+
+<br>
+<br>
+
 ## 5. CLIP: Learning Transferable Visual Models From Natural Language Supervision (2021)
 
 ### 3-1) 포스팅
