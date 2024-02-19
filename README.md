@@ -1,3 +1,20 @@
+## 7. CoCoOp: Conditional Prompt Learning for Vision-Language Models (2022)
+
+### 3-1) 포스팅
+  
+- **한국어 Review**  
+
+  <a href="https://on-jungwoan.github.io/dl_paper/cocoop/" target="blank_">CoCoOp(2022) 논문 리뷰</a>
+
+### 3-2) Script
+
+- **Official script**
+
+  <a href="https://github.com/KaiyangZhou/CoOp" target="blank_">https://github.com/KaiyangZhou/CoOp</a>
+
+<br>
+<br>
+
 ## 6. CoOp: Learning to Prompt for Vision-Language Models (2022)
 
 ### 3-1) 포스팅
