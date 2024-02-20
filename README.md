@@ -1,3 +1,20 @@
+## 8. Spatial VLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities (2024)
+
+### 3-1) 포스팅
+  
+- **한국어 Review**  
+
+  <a href="https://on-jungwoan.github.io/dl_paper/spatialvlm/" target="blank_">spatialvlm(2024) 논문 리뷰</a>
+
+### 3-2) Script
+
+- **project page**
+
+  <a href="https://spatial-vlm.github.io/" target="blank_">https://spatial-vlm.github.io/</a>
+
+<br>
+<br>
+
 ## 7. CoCoOp: Conditional Prompt Learning for Vision-Language Models (2022)
 
 ### 3-1) 포스팅
