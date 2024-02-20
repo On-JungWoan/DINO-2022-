@@ -4,7 +4,7 @@
   
 - **한국어 Review**  
 
-  <a href="https://on-jungwoan.github.io/dl_paper/spatialvlm/" target="blank_">spatialvlm(2024) 논문 리뷰</a>
+  <a href="https://on-jungwoan.github.io/dl_paper/spatialvlm/" target="blank_">SpatialVLM(2024) 논문 리뷰</a>
 
 ### 3-2) Script
 
