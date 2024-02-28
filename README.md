@@ -1,4 +1,4 @@
-## 8. Spatial VLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities (2024)
+## 8. [CVPR 2024] Spatial VLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities
 
 ### 3-1) 포스팅
   
@@ -8,14 +8,14 @@
 
 ### 3-2) Script
 
-- **project page**
+- **Official script**
 
-  <a href="https://spatial-vlm.github.io/" target="blank_">https://spatial-vlm.github.io/</a>
+  <a href="https://github.com/remyxai/VQASynth" target="blank_">https://github.com/remyxai/VQASynth</a>
 
 <br>
 <br>
 
-## 7. CoCoOp: Conditional Prompt Learning for Vision-Language Models (2022)
+## 7. [CVPR 2022] CoCoOp: Conditional Prompt Learning for Vision-Language Models
 
 ### 3-1) 포스팅
   
@@ -32,7 +32,7 @@
 <br>
 <br>
 
-## 6. CoOp: Learning to Prompt for Vision-Language Models (2022)
+## 6. [IJCV 2022] CoOp: Learning to Prompt for Vision-Language Models
 
 ### 3-1) 포스팅
   
@@ -49,7 +49,7 @@
 <br>
 <br>
 
-## 5. CLIP: Learning Transferable Visual Models From Natural Language Supervision (2021)
+## 5. [CVPR 2021] CLIP: Learning Transferable Visual Models From Natural Language Supervision
 
 ### 3-1) 포스팅
   
@@ -66,7 +66,7 @@
 <br>
 <br>
 
-## 4. METRO: End-to-End Human Pose and Mesh Reconstruction with Transformers (2021)
+## 4. [CVPR 2021] METRO: End-to-End Human Pose and Mesh Reconstruction with Transformers
 
 ### 3-1) 포스팅
   
@@ -87,7 +87,7 @@
 <br>
 <br>
 
-## 3. VIBE: Video Inference for Human Body Pose and Shape Estimation (2020)
+## 3. [CVPR 2020] VIBE: Video Inference for Human Body Pose and Shape Estimation
 
 ### 3-1) 포스팅
   
@@ -108,7 +108,7 @@
 <br>
 <br>
 
-## 2. Deformable DETR: Deformable Transformers for End-to-End Object Detection (2021)
+## 2. [ICLR 2021] Deformable DETR: Deformable Transformers for End-to-End Object Detection
 
 ### 2-1) 포스팅
   
@@ -133,7 +133,7 @@
 <br>
 <br>
 
-## 1. DINO : detr with improved denoising anchor boxes for end-to-end object detection (2022)
+## 1. [CVPR 2022] DINO : detr with improved denoising anchor boxes for end-to-end object detection
 
 ### 1-1) 포스팅
   
