@@ -1,3 +1,20 @@
+## 9. [CVPR 2022] Human Mesh Recovery from Multiple Shots
+
+### 3-1) 포스팅
+  
+- **한국어 Review**  
+
+  <a href="https://on-jungwoan.github.io/dl_paper/multishot/" target="blank_">Human Mesh Recovery from Multiple Shots(2022) 논문 리뷰</a>
+
+### 3-2) Script
+
+- **Official script**
+
+  <a href="https://github.com/geopavlakos/multishot" target="blank_">https://github.com/geopavlakos/multishot</a>
+
+<br>
+<br>
+
 ## 8. [CVPR 2024] Spatial VLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities
 
 ### 3-1) 포스팅
