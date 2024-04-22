@@ -1,12 +1,12 @@
 ## 9. [CVPR 2022] Human Mesh Recovery from Multiple Shots
 
-### 3-1) 포스팅
+### 9-1) 포스팅
   
 - **한국어 Review**  
 
   <a href="https://on-jungwoan.github.io/dl_paper/multishot/" target="blank_">Human Mesh Recovery from Multiple Shots(2022) 논문 리뷰</a>
 
-### 3-2) Script
+### 9-2) Script
 
 - **Official script**
 
@@ -17,13 +17,13 @@
 
 ## 8. [CVPR 2024] Spatial VLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities
 
-### 3-1) 포스팅
+### 8-1) 포스팅
   
 - **한국어 Review**  
 
   <a href="https://on-jungwoan.github.io/dl_paper/spatialvlm/" target="blank_">SpatialVLM(2024) 논문 리뷰</a>
 
-### 3-2) Script
+### 8-2) Script
 
 - **Official script**
 
@@ -34,13 +34,13 @@
 
 ## 7. [CVPR 2022] CoCoOp: Conditional Prompt Learning for Vision-Language Models
 
-### 3-1) 포스팅
+### 7-1) 포스팅
   
 - **한국어 Review**  
 
   <a href="https://on-jungwoan.github.io/dl_paper/cocoop/" target="blank_">CoCoOp(2022) 논문 리뷰</a>
 
-### 3-2) Script
+### 7-2) Script
 
 - **Official script**
 
@@ -51,13 +51,13 @@
 
 ## 6. [IJCV 2022] CoOp: Learning to Prompt for Vision-Language Models
 
-### 3-1) 포스팅
+### 6-1) 포스팅
   
 - **한국어 Review**  
 
   <a href="https://on-jungwoan.github.io/dl_paper/coop/" target="blank_">CoOp(2022) 논문 리뷰</a>
 
-### 3-2) Script
+### 6-2) Script
 
 - **Official script**
 
@@ -68,13 +68,13 @@
 
 ## 5. [CVPR 2021] CLIP: Learning Transferable Visual Models From Natural Language Supervision
 
-### 3-1) 포스팅
+### 5-1) 포스팅
   
 - **한국어 Review**  
 
   <a href="https://on-jungwoan.github.io/dl_paper/clip/" target="blank_">CLIP(2021) 논문 리뷰</a>
 
-### 3-2) Script
+### 5-2) Script
 
 - **Official script**
 
@@ -85,7 +85,7 @@
 
 ## 4. [CVPR 2021] METRO: End-to-End Human Pose and Mesh Reconstruction with Transformers
 
-### 3-1) 포스팅
+### 4-1) 포스팅
   
 - **한국어 Review**  
 
@@ -95,7 +95,7 @@
 
   <a href="https://docs.google.com/presentation/d/1B-cKihk0mUjyKCfY2aYUlEaXZsNPtFs0/edit#slide=id.g231647d9597_0_9" target="blank_">https://docs.google.com/presentation/d/1B-cKihk0mUjyKCfY2aYUlEaXZsNPtFs0/edit#slide=id.g231647d9597_0_9</a>
 
-### 3-2) Script
+### 4-2) Script
 
 - **Official script**
 
