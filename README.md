@@ -1,3 +1,20 @@
+## 10. [ECCV 2022] The One Where They Reconstructed 3D Humans and Environments in TV shows
+
+### 10-1) 포스팅
+  
+- **한국어 Review**  
+
+  <a href="https://on-jungwoan.github.io/dl_paper/sitcom3d/" target="blank_">The One Where They Reconstructed 3D Humans and Environments in TV shows (2022) 논문 리뷰</a>
+
+### 10-2) Script
+
+- **Official script**
+
+  <a href="https://github.com/ethanweber/sitcoms3D" target="blank_">https://github.com/ethanweber/sitcoms3D</a>
+
+<br>
+<br>
+
 ## 9. [CVPR 2022] Human Mesh Recovery from Multiple Shots
 
 ### 9-1) 포스팅
