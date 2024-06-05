@@ -1,12 +1,12 @@
-## 11. [3DV 2021] Dance In the Wild: Monocular Human Animation with Neural Dynamic Appearance Synthesis
+## 12. [3DV 2021] Dance In the Wild: Monocular Human Animation with Neural Dynamic Appearance Synthesis
 
-### 11-1) 포스팅
+### 12-1) 포스팅
   
 - **한국어 Review**  
 
   <a href="https://on-jungwoan.github.io/dl_paper/dancewild/" target="blank_">Dance In the Wild(2021) 논문 리뷰</a>
 
-### 11-2) Script
+### 12-2) Script
 
 - **Project Page**
 
